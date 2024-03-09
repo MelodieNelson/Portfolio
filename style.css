@@ -1,0 +1,20 @@
+/*background-colour: Light-stone-wall-paper*/
+/*other-background-color-option: Light-gold-marble effect*/
+/*Main-font-color charcoal: #122620*/
+/*Other-color: Gold:#B29433*/
+/*Other-color: ForestGreen:#1A4314*/
+
+/**/
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    background-image: url(visuals/smooth-gray-plaster-wall.jpg);
+     }
+p {
+  color: #122620;
+}
+  
